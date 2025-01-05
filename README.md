@@ -1,8 +1,9 @@
 # projectWeb_aietechhub
-Official website for @aietechhub
+Official website for DUTCH HEALTh LIBERIA
 
 Designer : Selorm Butsor Gamenyah
 Developer : Selorm Butsor Gamenyah
+Company : BeepByte Technologies
 
 Tools: 
 CodeBase {
@@ -23,13 +24,6 @@ Pages {
     About,
     Contact
 }
-
-Image credit{
-    KwekuTech
-Some of the images were chosen from the Angular session held by GDG Accra.
-Credit goes to Kwekutech.
-Thank you
-
 
 
 } 
